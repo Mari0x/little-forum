@@ -1,2 +1,2 @@
 # little-forum
-Little Forum Script 
+Pequeño y ligero script para montar un foro
